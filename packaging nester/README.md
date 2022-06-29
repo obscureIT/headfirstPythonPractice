@@ -4,3 +4,4 @@ This is nester 1.3.0
 This package is used to print nested lists either with indentation or without.
 
 [Tutorial of how to package a distribution of python](https://packaging.python.org/en/latest/tutorials/packaging-projects/).
+[Github markdown writing and formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
